@@ -9,7 +9,7 @@ npm install
 ```
 
 
-### ejemplo
+### Ejemplo
 
 ```
 node app -d "Brasilia"
